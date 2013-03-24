@@ -1,0 +1,174 @@
+Cluster number is: 5
+Begin testing file: MNIST/5Class/1.mat
+Elapsed time is 10.892110 seconds.
+The accuracy is: 76.9603%
+The MIhat is: 0.52332
+Begin testing file: MNIST/5Class/2.mat
+Elapsed time is 6.256126 seconds.
+The accuracy is: 52.2796%
+The MIhat is: 0.3062
+Begin testing file: MNIST/5Class/3.mat
+Elapsed time is 13.374703 seconds.
+The accuracy is: 48.8395%
+The MIhat is: 0.30625
+Begin testing file: MNIST/5Class/4.mat
+Elapsed time is 21.218116 seconds.
+The accuracy is: 52.3509%
+The MIhat is: 0.28316
+Begin testing file: MNIST/5Class/5.mat
+Elapsed time is 6.546181 seconds.
+The accuracy is: 42.7688%
+The MIhat is: 0.27218
+Begin testing file: MNIST/5Class/6.mat
+Elapsed time is 19.217621 seconds.
+The accuracy is: 62.0272%
+The MIhat is: 0.33617
+Begin testing file: MNIST/5Class/7.mat
+Elapsed time is 10.202657 seconds.
+The accuracy is: 45.5026%
+The MIhat is: 0.23519
+Begin testing file: MNIST/5Class/8.mat
+Elapsed time is 3.857629 seconds.
+The accuracy is: 55.4211%
+The MIhat is: 0.37708
+Begin testing file: MNIST/5Class/9.mat
+Elapsed time is 5.465291 seconds.
+The accuracy is: 47.6507%
+The MIhat is: 0.23095
+Begin testing file: MNIST/5Class/10.mat
+Elapsed time is 12.025803 seconds.
+The accuracy is: 52.8302%
+The MIhat is: 0.35492
+Cluster number is: 7
+Begin testing file: MNIST/7Class/1.mat
+Elapsed time is 26.047474 seconds.
+The accuracy is: 55.3692%
+The MIhat is: 0.35535
+Begin testing file: MNIST/7Class/2.mat
+Elapsed time is 21.736382 seconds.
+The accuracy is: 46.6946%
+The MIhat is: 0.33738
+Begin testing file: MNIST/7Class/3.mat
+Elapsed time is 24.196674 seconds.
+The accuracy is: 50.1745%
+The MIhat is: 0.32859
+Begin testing file: MNIST/7Class/4.mat
+Elapsed time is 12.056184 seconds.
+The accuracy is: 42.8769%
+The MIhat is: 0.29074
+Begin testing file: MNIST/7Class/5.mat
+Elapsed time is 25.126860 seconds.
+The accuracy is: 53.9979%
+The MIhat is: 0.35977
+Begin testing file: MNIST/7Class/6.mat
+Elapsed time is 11.706457 seconds.
+The accuracy is: 48.5278%
+The MIhat is: 0.28767
+Begin testing file: MNIST/7Class/7.mat
+Elapsed time is 13.933905 seconds.
+The accuracy is: 48.3501%
+The MIhat is: 0.37542
+Begin testing file: MNIST/7Class/8.mat
+Elapsed time is 23.817657 seconds.
+The accuracy is: 48.1077%
+The MIhat is: 0.33053
+Begin testing file: MNIST/7Class/9.mat
+Elapsed time is 10.447857 seconds.
+The accuracy is: 35.565%
+The MIhat is: 0.24393
+Begin testing file: MNIST/7Class/10.mat
+Elapsed time is 22.766410 seconds.
+The accuracy is: 36.7925%
+The MIhat is: 0.25084
+Cluster number is: 10
+Begin testing file: MNIST/MNIST.mat
+Elapsed time is 48.136789 seconds.
+The accuracy is: 47.35%
+The MIhat is: 0.36813
+Cluster number is: 5
+Begin testing file: COIL20/5Class/1.mat
+Elapsed time is 0.372143 seconds.
+The accuracy is: 72.5%
+The MIhat is: 0.62374
+Begin testing file: COIL20/5Class/2.mat
+Elapsed time is 0.623468 seconds.
+The accuracy is: 41.9444%
+The MIhat is: 0.35691
+Begin testing file: COIL20/5Class/3.mat
+Elapsed time is 0.530233 seconds.
+The accuracy is: 70%
+The MIhat is: 0.70374
+Begin testing file: COIL20/5Class/4.mat
+Elapsed time is 0.616425 seconds.
+The accuracy is: 62.5%
+The MIhat is: 0.56679
+Begin testing file: COIL20/5Class/5.mat
+Elapsed time is 0.629314 seconds.
+The accuracy is: 58.3333%
+The MIhat is: 0.57725
+Begin testing file: COIL20/5Class/6.mat
+Elapsed time is 0.243439 seconds.
+The accuracy is: 86.9444%
+The MIhat is: 0.81607
+Begin testing file: COIL20/5Class/7.mat
+Elapsed time is 0.887176 seconds.
+The accuracy is: 59.4444%
+The MIhat is: 0.63624
+Begin testing file: COIL20/5Class/8.mat
+Elapsed time is 0.465550 seconds.
+The accuracy is: 70.5556%
+The MIhat is: 0.80068
+Begin testing file: COIL20/5Class/9.mat
+Elapsed time is 0.622284 seconds.
+The accuracy is: 57.7778%
+The MIhat is: 0.52843
+Begin testing file: COIL20/5Class/10.mat
+Elapsed time is 0.335402 seconds.
+The accuracy is: 41.3889%
+The MIhat is: 0.30488
+Cluster number is: 10
+Begin testing file: COIL20/10Class/1.mat
+Elapsed time is 1.334732 seconds.
+The accuracy is: 52.6389%
+The MIhat is: 0.53856
+Begin testing file: COIL20/10Class/2.mat
+Elapsed time is 2.750010 seconds.
+The accuracy is: 44.7222%
+The MIhat is: 0.55886
+Begin testing file: COIL20/10Class/3.mat
+Elapsed time is 2.093385 seconds.
+The accuracy is: 59.0278%
+The MIhat is: 0.64863
+Begin testing file: COIL20/10Class/4.mat
+Elapsed time is 1.192135 seconds.
+The accuracy is: 74.0278%
+The MIhat is: 0.79155
+Begin testing file: COIL20/10Class/5.mat
+Elapsed time is 1.234557 seconds.
+The accuracy is: 67.9167%
+The MIhat is: 0.78037
+Begin testing file: COIL20/10Class/6.mat
+Elapsed time is 0.956131 seconds.
+The accuracy is: 74.3056%
+The MIhat is: 0.85698
+Begin testing file: COIL20/10Class/7.mat
+Elapsed time is 1.003982 seconds.
+The accuracy is: 58.6111%
+The MIhat is: 0.65046
+Begin testing file: COIL20/10Class/8.mat
+Elapsed time is 1.197647 seconds.
+The accuracy is: 66.8056%
+The MIhat is: 0.71053
+Begin testing file: COIL20/10Class/9.mat
+Elapsed time is 3.083112 seconds.
+The accuracy is: 36.6667%
+The MIhat is: 0.45411
+Begin testing file: COIL20/10Class/10.mat
+Elapsed time is 1.293384 seconds.
+The accuracy is: 42.6389%
+The MIhat is: 0.51743
+Cluster number is: 20
+Begin testing file: COIL20/COIL20.mat
+Elapsed time is 5.606775 seconds.
+The accuracy is: 43.3333%
+The MIhat is: 0.57274

@@ -1,0 +1,383 @@
+Cluster number is: 5
+Begin testing file: MNIST/5Class/1.mat
+  Unnormalized spectral clustering...
+Elapsed time is 3.486537 seconds.
+    The accuracy is: 33.2527%
+    The MIhat is: 0.1272
+  Normalized spectral clustering...
+Elapsed time is 3.060396 seconds.
+    The accuracy is: 80.0581%
+    The MIhat is: 0.58744
+Begin testing file: MNIST/5Class/2.mat
+  Unnormalized spectral clustering...
+Elapsed time is 2.884282 seconds.
+    The accuracy is: 36.4742%
+    The MIhat is: 0.13094
+  Normalized spectral clustering...
+Elapsed time is 2.232466 seconds.
+    The accuracy is: 56.1297%
+    The MIhat is: 0.35934
+Begin testing file: MNIST/5Class/3.mat
+  Unnormalized spectral clustering...
+Elapsed time is 3.299172 seconds.
+    The accuracy is: 35.4568%
+    The MIhat is: 0.18314
+  Normalized spectral clustering...
+Elapsed time is 2.880584 seconds.
+    The accuracy is: 69.0864%
+    The MIhat is: 0.5145
+Begin testing file: MNIST/5Class/4.mat
+  Unnormalized spectral clustering...
+Elapsed time is 3.363452 seconds.
+    The accuracy is: 29.0354%
+    The MIhat is: 0.072129
+  Normalized spectral clustering...
+Elapsed time is 2.939877 seconds.
+    The accuracy is: 66.699%
+    The MIhat is: 0.43831
+Begin testing file: MNIST/5Class/5.mat
+  Unnormalized spectral clustering...
+Elapsed time is 3.712683 seconds.
+    The accuracy is: 21.7412%
+    The MIhat is: 0.0019381
+  Normalized spectral clustering...
+Elapsed time is 2.727625 seconds.
+    The accuracy is: 69.5528%
+    The MIhat is: 0.48003
+Begin testing file: MNIST/5Class/6.mat
+  Unnormalized spectral clustering...
+Elapsed time is 3.269283 seconds.
+    The accuracy is: 24.1513%
+    The MIhat is: 0.018336
+  Normalized spectral clustering...
+Elapsed time is 3.043463 seconds.
+    The accuracy is: 72.5024%
+    The MIhat is: 0.45613
+Begin testing file: MNIST/5Class/7.mat
+  Unnormalized spectral clustering...
+Elapsed time is 3.480204 seconds.
+    The accuracy is: 24.8677%
+    The MIhat is: 0.040517
+  Normalized spectral clustering...
+Elapsed time is 3.036481 seconds.
+    The accuracy is: 50.2165%
+    The MIhat is: 0.32167
+Begin testing file: MNIST/5Class/8.mat
+  Unnormalized spectral clustering...
+Elapsed time is 2.974344 seconds.
+    The accuracy is: 37.8215%
+    The MIhat is: 0.17691
+  Normalized spectral clustering...
+Elapsed time is 2.377848 seconds.
+    The accuracy is: 62.8341%
+    The MIhat is: 0.4135
+Begin testing file: MNIST/5Class/9.mat
+  Unnormalized spectral clustering...
+Elapsed time is 2.804954 seconds.
+    The accuracy is: 31.3075%
+    The MIhat is: 0.10917
+  Normalized spectral clustering...
+Elapsed time is 2.149406 seconds.
+    The accuracy is: 51.1236%
+    The MIhat is: 0.33961
+Begin testing file: MNIST/5Class/10.mat
+  Unnormalized spectral clustering...
+Elapsed time is 3.053866 seconds.
+    The accuracy is: 34.6574%
+    The MIhat is: 0.15108
+  Normalized spectral clustering...
+Elapsed time is 2.277761 seconds.
+    The accuracy is: 48.858%
+    The MIhat is: 0.3612
+Cluster number is: 7
+Begin testing file: MNIST/7Class/1.mat
+  Unnormalized spectral clustering...
+Elapsed time is 7.754885 seconds.
+    The accuracy is: 23.6176%
+    The MIhat is: 0.069455
+  Normalized spectral clustering...
+Elapsed time is 6.513105 seconds.
+    The accuracy is: 63.9315%
+    The MIhat is: 0.46008
+Begin testing file: MNIST/7Class/2.mat
+  Unnormalized spectral clustering...
+Elapsed time is 8.396154 seconds.
+    The accuracy is: 23.05%
+    The MIhat is: 0.075788
+  Normalized spectral clustering...
+Elapsed time is 7.098892 seconds.
+    The accuracy is: 65.6873%
+    The MIhat is: 0.47524
+Begin testing file: MNIST/7Class/3.mat
+  Unnormalized spectral clustering...
+Elapsed time is 8.192965 seconds.
+    The accuracy is: 16.1898%
+    The MIhat is: 0.0041749
+  Normalized spectral clustering...
+Elapsed time is 6.628882 seconds.
+    The accuracy is: 64.1312%
+    The MIhat is: 0.44169
+Begin testing file: MNIST/7Class/4.mat
+  Unnormalized spectral clustering...
+Elapsed time is 8.454213 seconds.
+    The accuracy is: 29.5989%
+    The MIhat is: 0.14515
+  Normalized spectral clustering...
+Elapsed time is 6.563074 seconds.
+    The accuracy is: 50.4149%
+    The MIhat is: 0.3874
+Begin testing file: MNIST/7Class/5.mat
+  Unnormalized spectral clustering...
+Elapsed time is 8.100969 seconds.
+    The accuracy is: 27.4745%
+    The MIhat is: 0.1382
+  Normalized spectral clustering...
+Elapsed time is 6.987432 seconds.
+    The accuracy is: 58.3656%
+    The MIhat is: 0.42415
+Begin testing file: MNIST/7Class/6.mat
+  Unnormalized spectral clustering...
+Elapsed time is 7.391115 seconds.
+    The accuracy is: 22.5009%
+    The MIhat is: 0.065888
+  Normalized spectral clustering...
+Elapsed time is 6.147859 seconds.
+    The accuracy is: 60.0145%
+    The MIhat is: 0.41874
+Begin testing file: MNIST/7Class/7.mat
+  Unnormalized spectral clustering...
+Elapsed time is 8.074523 seconds.
+    The accuracy is: 25.5022%
+    The MIhat is: 0.11925
+  Normalized spectral clustering...
+Elapsed time is 6.104171 seconds.
+    The accuracy is: 52.3314%
+    The MIhat is: 0.47818
+Begin testing file: MNIST/7Class/8.mat
+  Unnormalized spectral clustering...
+Elapsed time is 7.322624 seconds.
+    The accuracy is: 29.1485%
+    The MIhat is: 0.13774
+  Normalized spectral clustering...
+Elapsed time is 5.569601 seconds.
+    The accuracy is: 56.6958%
+    The MIhat is: 0.4423
+Begin testing file: MNIST/7Class/9.mat
+  Unnormalized spectral clustering...
+Elapsed time is 8.150192 seconds.
+    The accuracy is: 15.5863%
+    The MIhat is: 0.004959
+  Normalized spectral clustering...
+Elapsed time is 5.933017 seconds.
+    The accuracy is: 53.4538%
+    The MIhat is: 0.40425
+Begin testing file: MNIST/7Class/10.mat
+  Unnormalized spectral clustering...
+Elapsed time is 7.245673 seconds.
+    The accuracy is: 22.5689%
+    The MIhat is: 0.066128
+  Normalized spectral clustering...
+Elapsed time is 5.525879 seconds.
+    The accuracy is: 51.27%
+    The MIhat is: 0.41762
+Cluster number is: 10
+Begin testing file: MNIST/MNIST.mat
+Elapsed time is 21.343425 seconds.
+    The accuracy is: 26.85%
+    The MIhat is: 0.16385
+  Normalized spectral clustering...
+Elapsed time is 14.878911 seconds.
+    The accuracy is: 58.725%
+    The MIhat is: 0.44763
+Cluster number is: 5
+Begin testing file: COIL20/5Class/1.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.146487 seconds.
+    The accuracy is: 58.6111%
+    The MIhat is: 0.44166
+  Normalized spectral clustering...
+Elapsed time is 0.257456 seconds.
+    The accuracy is: 73.8889%
+    The MIhat is: 0.68124
+Begin testing file: COIL20/5Class/2.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.115358 seconds.
+    The accuracy is: 32.5%
+    The MIhat is: 0.14996
+  Normalized spectral clustering...
+Elapsed time is 0.253812 seconds.
+    The accuracy is: 54.1667%
+    The MIhat is: 0.50936
+Begin testing file: COIL20/5Class/3.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.115948 seconds.
+    The accuracy is: 57.2222%
+    The MIhat is: 0.59044
+  Normalized spectral clustering...
+Elapsed time is 0.248498 seconds.
+    The accuracy is: 88.3333%
+    The MIhat is: 0.87051
+Begin testing file: COIL20/5Class/4.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.104377 seconds.
+    The accuracy is: 41.6667%
+    The MIhat is: 0.26816
+  Normalized spectral clustering...
+Elapsed time is 0.248458 seconds.
+    The accuracy is: 67.2222%
+    The MIhat is: 0.73403
+Begin testing file: COIL20/5Class/5.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.114196 seconds.
+    The accuracy is: 73.0556%
+    The MIhat is: 0.64916
+  Normalized spectral clustering...
+Elapsed time is 0.247744 seconds.
+    The accuracy is: 70.2778%
+    The MIhat is: 0.82773
+Begin testing file: COIL20/5Class/6.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.120297 seconds.
+    The accuracy is: 56.9444%
+    The MIhat is: 0.5538
+  Normalized spectral clustering...
+Elapsed time is 0.244545 seconds.
+    The accuracy is: 70.8333%
+    The MIhat is: 0.82773
+Begin testing file: COIL20/5Class/7.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.110155 seconds.
+    The accuracy is: 72.2222%
+    The MIhat is: 0.69294
+  Normalized spectral clustering...
+Elapsed time is 0.244575 seconds.
+    The accuracy is: 59.1667%
+    The MIhat is: 0.64712
+Begin testing file: COIL20/5Class/8.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.069656 seconds.
+    The accuracy is: 31.3889%
+    The MIhat is: 0.13734
+  Normalized spectral clustering...
+Elapsed time is 0.051488 seconds.
+    The accuracy is: 63.8889%
+    The MIhat is: 0.71864
+Begin testing file: COIL20/5Class/9.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.113045 seconds.
+    The accuracy is: 56.3889%
+    The MIhat is: 0.45096
+  Normalized spectral clustering...
+Elapsed time is 0.249950 seconds.
+    The accuracy is: 75.8333%
+    The MIhat is: 0.66385
+Begin testing file: COIL20/5Class/10.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.111101 seconds.
+    The accuracy is: 30.2778%
+    The MIhat is: 0.1166
+  Normalized spectral clustering...
+Elapsed time is 0.249342 seconds.
+    The accuracy is: 65.8333%
+    The MIhat is: 0.59655
+Cluster number is: 10
+Begin testing file: COIL20/10Class/1.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.525738 seconds.
+    The accuracy is: 36.6667%
+    The MIhat is: 0.3314
+  Normalized spectral clustering...
+Elapsed time is 4.294267 seconds.
+    The accuracy is: 51.3889%
+    The MIhat is: 0.59498
+Begin testing file: COIL20/10Class/2.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.586155 seconds.
+    The accuracy is: 37.5%
+    The MIhat is: 0.34538
+  Normalized spectral clustering...
+Elapsed time is 4.042545 seconds.
+    The accuracy is: 56.5278%
+    The MIhat is: 0.60419
+Begin testing file: COIL20/10Class/3.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.549326 seconds.
+    The accuracy is: 36.9444%
+    The MIhat is: 0.37048
+  Normalized spectral clustering...
+Elapsed time is 4.184275 seconds.
+    The accuracy is: 68.75%
+    The MIhat is: 0.70554
+Begin testing file: COIL20/10Class/4.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.498543 seconds.
+    The accuracy is: 29.0278%
+    The MIhat is: 0.30276
+  Normalized spectral clustering...
+Elapsed time is 3.928275 seconds.
+    The accuracy is: 75.2778%
+    The MIhat is: 0.79938
+Begin testing file: COIL20/10Class/5.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.517027 seconds.
+    The accuracy is: 38.75%
+    The MIhat is: 0.3906
+  Normalized spectral clustering...
+Elapsed time is 3.872198 seconds.
+    The accuracy is: 67.5%
+    The MIhat is: 0.73162
+Begin testing file: COIL20/10Class/6.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.518738 seconds.
+    The accuracy is: 38.1944%
+    The MIhat is: 0.40373
+  Normalized spectral clustering...
+Elapsed time is 3.761992 seconds.
+    The accuracy is: 85.8333%
+    The MIhat is: 0.91701
+Begin testing file: COIL20/10Class/7.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.544373 seconds.
+    The accuracy is: 37.7778%
+    The MIhat is: 0.39066
+  Normalized spectral clustering...
+Elapsed time is 3.795164 seconds.
+    The accuracy is: 71.9444%
+    The MIhat is: 0.77003
+Begin testing file: COIL20/10Class/8.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.560154 seconds.
+    The accuracy is: 35%
+    The MIhat is: 0.32688
+  Normalized spectral clustering...
+Elapsed time is 4.024844 seconds.
+    The accuracy is: 68.3333%
+    The MIhat is: 0.74598
+Begin testing file: COIL20/10Class/9.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.530952 seconds.
+    The accuracy is: 34.8611%
+    The MIhat is: 0.37071
+  Normalized spectral clustering...
+Elapsed time is 3.919239 seconds.
+    The accuracy is: 57.5%
+    The MIhat is: 0.63367
+Begin testing file: COIL20/10Class/10.mat
+  Unnormalized spectral clustering...
+Elapsed time is 0.516051 seconds.
+    The accuracy is: 44.8611%
+    The MIhat is: 0.4451
+  Normalized spectral clustering...
+Elapsed time is 4.085815 seconds.
+    The accuracy is: 56.3889%
+    The MIhat is: 0.63274
+Cluster number is: 20
+Begin testing file: COIL20/COIL20.mat
+  Unnormalized spectral clustering...
+Elapsed time is 3.236931 seconds.
+    The accuracy is: 39.7222%
+    The MIhat is: 0.48879
+  Normalized spectral clustering...
+Elapsed time is 34.660101 seconds.
+    The accuracy is: 67.4306%
+    The MIhat is: 0.78083
